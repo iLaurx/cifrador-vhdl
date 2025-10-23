@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../cifrador-lfsr.srcs/sources_1/new/cifrador_lfsr.vhd" \
+"../../../../cifrador-lfsr.srcs/sim_1/new/tb_cifrador_lfsr.vhd" \
+
+# Do not sort compile order
+nosort

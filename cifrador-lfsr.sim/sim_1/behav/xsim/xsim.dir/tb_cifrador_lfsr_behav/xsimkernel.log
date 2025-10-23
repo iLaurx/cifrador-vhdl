@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_cifrador_lfsr_behav/xsimk.exe -simmode gui -wdb tb_cifrador_lfsr_behav.wdb -simrunnum 0 -socket 58206
+Design successfully loaded
+Design Loading Memory Usage: 10724 KB (Peak: 10724 KB)
+Design Loading CPU Usage: 31 ms
